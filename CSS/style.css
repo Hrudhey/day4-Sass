@@ -1,0 +1,67 @@
+  /* .futball img{
+    position: relative;
+    margin-top: 10px;
+  
+    
+}
+  .futball #a{
+    position: absolute;
+    
+   right: 255px;
+   top: 0px;
+    
+}
+ .futball #b{
+    position: absolute;
+    
+    left: 7px;
+    top: 0px;
+
+}
+.futball #c{
+    position: absolute;
+    top: 300px;
+    left: 7px;
+
+}
+.futball #d{
+    position: absolute;
+    right: 255px; }  */
+
+ @media screen and (min-width:460px){
+    .container{
+        background-color: aquamarine;
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        gap: 10px;
+        
+ }
+}
+
+   
+ .child{
+    border: 1px solid red;
+    
+ }  
+ 
+   /* header{
+    margin-top: 2px;
+    display: flex;
+    
+ }
+ nav{
+    border: 1px solid black;
+    width: 35%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 4px;
+    
+   
+ }
+ a{
+    border: 1px solid green;
+    margin: 3px;
+    padding: 2px;
+ }   */
